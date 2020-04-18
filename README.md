@@ -1,5 +1,7 @@
 # SGPXExposure
 
+Small script for caculating the amount of exposure to finisch 
+with in the planned sequence to ensure end of sequence script will run
 
 Enter your Input  in the following format
 Enter exposure time in sec: 300
